@@ -1,0 +1,25 @@
+.app {
+  padding: 5rem 1rem;
+  background: var(--red-color) url(./assets/bg-intro-mobile.png) fixed ;
+}
+
+@media screen and (min-width: 450px) {
+  .app {
+    background-image: url(./assets/bg-intro-desktop.png);
+    padding: 5rem 12rem;
+    max-height: 900px;
+    max-width: 1440px;
+  }
+}
+
+button {
+  display: block;
+  font-family: inherit;
+  font-size: inherit;
+  text-transform: uppercase;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}

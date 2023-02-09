@@ -1,0 +1,18 @@
+.footer {
+  position: absolute;
+  bottom: -60px;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.footer a {
+  font-style: none;
+  color: rgb(41, 29, 29);
+  font-weight: 500;
+
+  transition: all .3s ease-in-out
+}
+
+.footer a:hover {
+  font-size: 1.1rem;
+}
