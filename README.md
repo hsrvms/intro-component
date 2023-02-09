@@ -33,7 +33,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [GitHub](https://github.com/hsrvms/intro-component)
-- Live Site URL: [GitHub Pages](https://intro-component-ivory.vercel.app/)
+- Live Site URL: [Vercel](https://intro-component-ivory.vercel.app/)
 
 ## My process
 
